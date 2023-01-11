@@ -5,9 +5,9 @@ contributors: tianci li, Steven Spencer
 updated: 11-23-2021
 ---
 
-# 安装 Rocky Linux
+# 安装 Rocky Linux 8
 
-本指南介绍了在独立系统上安装 64 位 Rocky Linux 发行版的详细步骤。  我们将使用从Rocky Linux项目网站下载的ISO镜像文件执行服务器类安装。 我们将在以下部分逐步完成安装和自定义步骤。
+本指南介绍了在独立系统上安装 64 位 Rocky Linux 8发行版的详细步骤。  我们将使用从Rocky Linux项目网站下载的ISO镜像文件执行服务器类安装。 我们将在以下部分逐步完成安装和自定义步骤。
 
 
 ## 操作系统安装前提
